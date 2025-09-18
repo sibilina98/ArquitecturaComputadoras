@@ -1,0 +1,7 @@
+module _sum(input OP1, OP2, CI, output S, AS);
+
+assign S = (OP1 ^ OP2);
+assign AS = (OP1 & OP2);
+
+
+endmodule

@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/sums
+v_and_TB
+!s110 1756147472
+!i10b 1
+!s100 :@Rl3H[L]g1KYnAmSnDm;3
+I@Z[CBj[0nojmo=NRlfeMF0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/omp
+w1756147462
+8C:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/sums/Test_Bench_And.v
+FC:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/sums/Test_Bench_And.v
+L0 3
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1756147472.000000
+!s107 C:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/sums/Test_Bench_And.v|
+!s90 -reportprogress|300|-work|work|C:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/sums/Test_Bench_And.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@_and_@t@b
+v_sum
+!i10b 1
+R0
+r1
+!s85 0
+31
+!s100 S2XZh7Ff5;HdW0KPRZFAg0
+Ilm0IiL@`o2[P6N_`DfbXB0
+R1
+w1756146933
+8C:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/sums/_sum.v
+FC:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/sums/_sum.v
+L0 1
+R2
+!s108 1756147394.000000
+!s107 C:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/sums/_sum.v|
+!s90 -reportprogress|300|-work|work|C:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/sums/_sum.v|
+!i113 1
+R3
+R4
+n@_sum

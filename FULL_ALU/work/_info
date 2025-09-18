@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vALU
+!s110 1757480491
+!i10b 1
+!s100 Nl2zcTW22PO3bFT3cPzWF2
+Igf=lb^KQVIH5;CmWEo[a91
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/sibil/OneDrive/Documentos/ARQUITECTURA_DE_COMPUTADORAS/ArquitecturaComputadoras/FULL_ALU
+w1757480146
+8C:\Users\sibil\OneDrive\Documentos\ARQUITECTURA_DE_COMPUTADORAS\ArquitecturaComputadoras\FULL_ALU\Full_Alu.v
+FC:\Users\sibil\OneDrive\Documentos\ARQUITECTURA_DE_COMPUTADORAS\ArquitecturaComputadoras\FULL_ALU\Full_Alu.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1757480491.000000
+!s107 C:\Users\sibil\OneDrive\Documentos\ARQUITECTURA_DE_COMPUTADORAS\ArquitecturaComputadoras\FULL_ALU\Full_Alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\sibil\OneDrive\Documentos\ARQUITECTURA_DE_COMPUTADORAS\ArquitecturaComputadoras\FULL_ALU\Full_Alu.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@l@u
+vALU_TB
+!s110 1757480492
+!i10b 1
+!s100 [Lk`P[CoioV=UNB4@3_Oe0
+I]E2XFklFl3:kMEmD29n6d3
+R0
+R1
+w1757480148
+8C:\Users\sibil\OneDrive\Documentos\ARQUITECTURA_DE_COMPUTADORAS\ArquitecturaComputadoras\FULL_ALU\Full_Alu_TB.v
+FC:\Users\sibil\OneDrive\Documentos\ARQUITECTURA_DE_COMPUTADORAS\ArquitecturaComputadoras\FULL_ALU\Full_Alu_TB.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:\Users\sibil\OneDrive\Documentos\ARQUITECTURA_DE_COMPUTADORAS\ArquitecturaComputadoras\FULL_ALU\Full_Alu_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\sibil\OneDrive\Documentos\ARQUITECTURA_DE_COMPUTADORAS\ArquitecturaComputadoras\FULL_ALU\Full_Alu_TB.v|
+!i113 1
+R4
+R5
+n@a@l@u_@t@b
